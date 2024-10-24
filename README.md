@@ -30,6 +30,12 @@
 - Como instalar todos os pacotes de dependência do projeto?
   - npm install
   - yarn install
+ 
+- Instalação do plugin como dependência de desenvolvimento, para execução de testes de API com o cypress.
+  - https://www.npmjs.com/package/cypress-plugin-api
+    - comando: npm i cypress-plugin-api -D
+  - https://yarnpkg.com/package?q=cypress%20api&name=cypress-plugin-api
+    - comando: yarn add cypress-plugin-api -D
 
 ## Dependências do projeto:
 
