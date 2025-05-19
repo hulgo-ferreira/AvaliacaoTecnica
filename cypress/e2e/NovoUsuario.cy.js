@@ -1,4 +1,4 @@
-//Cenário 1
+
 describe('Cadastro de usuário', () => {
   
     beforeEach(() => {

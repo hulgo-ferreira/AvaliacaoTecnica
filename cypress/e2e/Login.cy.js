@@ -1,5 +1,4 @@
 
-//Cenário 1
 describe('Login', () => {
 
   beforeEach(() => {

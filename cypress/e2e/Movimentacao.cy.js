@@ -1,5 +1,4 @@
 
-//Como pré-condição para esse teste, eu preciso estar logado no sistema com meu usuário
 describe('Movimentação', () => {
     beforeEach(() => {
         cy.goHome()
